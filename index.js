@@ -539,10 +539,10 @@ break
   
   case 'owner':
   case 'author':
-    number = '6282223014661@s.whatsapp.net'
+    number = '6281262411188@s.whatsapp.net'
     capt = `Nomor : @${number.split('@')[0]}\n`
-    capt += 'Instagram : https://www.instagram.com/mrf.zvx'
-    await client.fakeLink(from, capt, thumb, 'Click in here', 'https://www.instagram.com/mrf.zvx', mek)
+    capt += 'Instagram : https://www.instagram.com/suranta_smbr_'
+    await client.fakeLink(from, capt, thumb, 'Click in here', 'https://www.instagram.com/suranta_smbr_', mek)
    /* client.sendContact(from, '6282223014661', 'owner', {
 	 key: {
           fromMe: false,
@@ -596,8 +596,8 @@ break
 - Versi Browser : *${client.browserDescription[2]}*
 
 *OWNER*
-- Instagram : https://www.instagram.com/mrf.zvx
-- WhatsApp : wa.me/6282223014661
+- Instagram : https://www.instagram.com/suranta_smbr_
+- WhatsApp : wa.me/6281262411188
 
 *SCRIPT*
 - Git : ${package.homepage}
